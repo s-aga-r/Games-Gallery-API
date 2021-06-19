@@ -1,0 +1,850 @@
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\appsettings.json
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.API.exe
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.API.deps.json
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.API.runtimeconfig.json
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.API.runtimeconfig.dev.json
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.API.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ref\GamesGallery.API.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.API.pdb
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.csprojAssemblyReference.cache
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.AssemblyInfoInputs.cache
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.AssemblyInfo.cs
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.csproj.CoreCompileInputs.cache
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\staticwebassets\GamesGallery.API.StaticWebAssets.Manifest.cache
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\staticwebassets\GamesGallery.API.StaticWebAssets.xml
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\scopedcss\bundle\GamesGallery.API.styles.css
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.RazorTargetAssemblyInfo.cache
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.csproj.CopyComplete
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\ref\GamesGallery.API.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.pdb
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.genruntimeconfig.cache
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.BL.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.DL.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.DL.pdb
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.BL.pdb
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.VM.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.VM.pdb
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\appsettings.json
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.API.exe
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.API.deps.json
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.API.runtimeconfig.json
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.API.runtimeconfig.dev.json
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.API.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ref\GamesGallery.API.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.API.pdb
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.BL.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.DL.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.VM.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.BL.pdb
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.VM.pdb
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.DL.pdb
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.csprojAssemblyReference.cache
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.AssemblyInfoInputs.cache
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.AssemblyInfo.cs
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.csproj.CoreCompileInputs.cache
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\staticwebassets\GamesGallery.API.StaticWebAssets.Manifest.cache
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\staticwebassets\GamesGallery.API.StaticWebAssets.xml
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\scopedcss\bundle\GamesGallery.API.styles.css
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.RazorTargetAssemblyInfo.cache
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.csproj.CopyComplete
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\ref\GamesGallery.API.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.pdb
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.genruntimeconfig.cache
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\nlog.config
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\NLog.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\appsettings.Development.json
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\appsettings.json
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\nlog.config
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.API.exe
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.API.deps.json
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.API.runtimeconfig.json
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.API.runtimeconfig.dev.json
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.API.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ref\GamesGallery.API.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.API.pdb
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\AutoMapper.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Humanizer.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\NLog.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.BL.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.DL.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.VM.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.BL.pdb
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.VM.pdb
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.DL.pdb
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.csprojAssemblyReference.cache
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.AssemblyInfoInputs.cache
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.AssemblyInfo.cs
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.csproj.CoreCompileInputs.cache
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.MvcApplicationPartsAssemblyInfo.cs
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.MvcApplicationPartsAssemblyInfo.cache
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\obj\Debug\net5.0\staticwebassets\GamesGallery.API.StaticWebAssets.Manifest.cache
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\obj\Debug\net5.0\staticwebassets\GamesGallery.API.StaticWebAssets.xml
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\obj\Debug\net5.0\scopedcss\bundle\GamesGallery.API.styles.css
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.RazorTargetAssemblyInfo.cache
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.csproj.CopyComplete
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\obj\Debug\net5.0\ref\GamesGallery.API.dll
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.pdb
+D:\zNEW DATA\My Repos\GG API\18\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.genruntimeconfig.cache
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\nlog.config
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\appsettings.json
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.API.exe
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.API.deps.json
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.API.runtimeconfig.json
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.API.runtimeconfig.dev.json
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.API.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ref\GamesGallery.API.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.API.pdb
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\NLog.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.BL.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.DL.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.VM.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.BL.pdb
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.VM.pdb
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.DL.pdb
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.csprojAssemblyReference.cache
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.AssemblyInfoInputs.cache
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.AssemblyInfo.cs
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.csproj.CoreCompileInputs.cache
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\staticwebassets\GamesGallery.API.StaticWebAssets.Manifest.cache
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\staticwebassets\GamesGallery.API.StaticWebAssets.xml
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\scopedcss\bundle\GamesGallery.API.styles.css
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.RazorTargetAssemblyInfo.cache
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.csproj.CopyComplete
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\ref\GamesGallery.API.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.pdb
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.genruntimeconfig.cache
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\nlog.config
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\NLog.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\nlog.config
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\appsettings.json
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.API.exe
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.API.deps.json
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.API.runtimeconfig.json
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.API.runtimeconfig.dev.json
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.API.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ref\GamesGallery.API.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.API.pdb
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\NLog.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.BL.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.DL.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.VM.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.BL.pdb
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.VM.pdb
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\bin\Debug\net5.0\GamesGallery.DL.pdb
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.csprojAssemblyReference.cache
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.AssemblyInfoInputs.cache
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.AssemblyInfo.cs
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.csproj.CoreCompileInputs.cache
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\obj\Debug\net5.0\staticwebassets\GamesGallery.API.StaticWebAssets.Manifest.cache
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\obj\Debug\net5.0\staticwebassets\GamesGallery.API.StaticWebAssets.xml
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\obj\Debug\net5.0\scopedcss\bundle\GamesGallery.API.styles.css
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.RazorTargetAssemblyInfo.cache
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.csproj.CopyComplete
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\obj\Debug\net5.0\ref\GamesGallery.API.dll
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.pdb
+C:\Users\sagar\Music\GamesGallery ASP.NET Core RESTful API\GamesGallery\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.genruntimeconfig.cache
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\nlog.config
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\appsettings.json
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\GamesGallery.API.exe
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\GamesGallery.API.deps.json
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\GamesGallery.API.runtimeconfig.json
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\GamesGallery.API.runtimeconfig.dev.json
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\GamesGallery.API.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\ref\GamesGallery.API.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\GamesGallery.API.pdb
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\NLog.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\GamesGallery.BL.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\GamesGallery.DL.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\GamesGallery.VM.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\GamesGallery.BL.pdb
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\GamesGallery.VM.pdb
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\bin\Debug\net5.0\GamesGallery.DL.pdb
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.csproj.AssemblyReference.cache
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.AssemblyInfoInputs.cache
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.AssemblyInfo.cs
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.csproj.CoreCompileInputs.cache
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\obj\Debug\net5.0\staticwebassets\GamesGallery.API.StaticWebAssets.Manifest.cache
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\obj\Debug\net5.0\staticwebassets\GamesGallery.API.StaticWebAssets.xml
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\obj\Debug\net5.0\scopedcss\bundle\GamesGallery.API.styles.css
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.RazorTargetAssemblyInfo.cache
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.csproj.CopyComplete
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\obj\Debug\net5.0\ref\GamesGallery.API.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.pdb
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.API\obj\Debug\net5.0\GamesGallery.API.genruntimeconfig.cache

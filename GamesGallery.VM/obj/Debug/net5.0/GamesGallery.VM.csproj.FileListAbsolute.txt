@@ -1,0 +1,48 @@
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.VM\bin\Debug\net5.0\GamesGallery.VM.deps.json
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.VM\bin\Debug\net5.0\GamesGallery.VM.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.VM\bin\Debug\net5.0\ref\GamesGallery.VM.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.VM\bin\Debug\net5.0\GamesGallery.VM.pdb
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.VM\obj\Debug\net5.0\GamesGallery.VM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.VM\obj\Debug\net5.0\GamesGallery.VM.AssemblyInfoInputs.cache
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.VM\obj\Debug\net5.0\GamesGallery.VM.AssemblyInfo.cs
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.VM\obj\Debug\net5.0\GamesGallery.VM.csproj.CoreCompileInputs.cache
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.VM\obj\Debug\net5.0\GamesGallery.VM.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.VM\obj\Debug\net5.0\ref\GamesGallery.VM.dll
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.VM\obj\Debug\net5.0\GamesGallery.VM.pdb
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.VM\bin\Debug\net5.0\GamesGallery.VM.deps.json
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.VM\bin\Debug\net5.0\GamesGallery.VM.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.VM\bin\Debug\net5.0\ref\GamesGallery.VM.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.VM\bin\Debug\net5.0\GamesGallery.VM.pdb
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.VM\obj\Debug\net5.0\GamesGallery.VM.csprojAssemblyReference.cache
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.VM\obj\Debug\net5.0\GamesGallery.VM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.VM\obj\Debug\net5.0\GamesGallery.VM.AssemblyInfoInputs.cache
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.VM\obj\Debug\net5.0\GamesGallery.VM.AssemblyInfo.cs
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.VM\obj\Debug\net5.0\GamesGallery.VM.csproj.CoreCompileInputs.cache
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.VM\obj\Debug\net5.0\GamesGallery.VM.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.VM\obj\Debug\net5.0\ref\GamesGallery.VM.dll
+C:\Users\HP-PC\Documents\GamesGallery\GamesGallery.VM\obj\Debug\net5.0\GamesGallery.VM.pdb
+C:\Users\sagar\OneDrive\Documents\GamesGallery\GamesGallery.VM\obj\Debug\net5.0\GamesGallery.VM.csprojAssemblyReference.cache
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.VM\bin\Debug\net5.0\GamesGallery.VM.deps.json
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.VM\bin\Debug\net5.0\GamesGallery.VM.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.VM\bin\Debug\net5.0\ref\GamesGallery.VM.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.VM\bin\Debug\net5.0\GamesGallery.VM.pdb
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.VM\obj\Debug\net5.0\GamesGallery.VM.csprojAssemblyReference.cache
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.VM\obj\Debug\net5.0\GamesGallery.VM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.VM\obj\Debug\net5.0\GamesGallery.VM.AssemblyInfoInputs.cache
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.VM\obj\Debug\net5.0\GamesGallery.VM.AssemblyInfo.cs
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.VM\obj\Debug\net5.0\GamesGallery.VM.csproj.CoreCompileInputs.cache
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.VM\obj\Debug\net5.0\GamesGallery.VM.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.VM\obj\Debug\net5.0\ref\GamesGallery.VM.dll
+C:\Users\sagar\Documents\GamesGallery\GamesGallery.VM\obj\Debug\net5.0\GamesGallery.VM.pdb
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.VM\bin\Debug\net5.0\GamesGallery.VM.deps.json
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.VM\bin\Debug\net5.0\GamesGallery.VM.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.VM\bin\Debug\net5.0\ref\GamesGallery.VM.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.VM\bin\Debug\net5.0\GamesGallery.VM.pdb
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.VM\obj\Debug\net5.0\GamesGallery.VM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.VM\obj\Debug\net5.0\GamesGallery.VM.AssemblyInfoInputs.cache
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.VM\obj\Debug\net5.0\GamesGallery.VM.AssemblyInfo.cs
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.VM\obj\Debug\net5.0\GamesGallery.VM.csproj.CoreCompileInputs.cache
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.VM\obj\Debug\net5.0\GamesGallery.VM.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.VM\obj\Debug\net5.0\ref\GamesGallery.VM.dll
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.VM\obj\Debug\net5.0\GamesGallery.VM.pdb
+C:\Users\sagar\Documents\Git Repositories\GamesGalleryAPI\GamesGallery.VM\obj\Debug\net5.0\GamesGallery.VM.csproj.AssemblyReference.cache
